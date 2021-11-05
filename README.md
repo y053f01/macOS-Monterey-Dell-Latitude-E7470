@@ -1,5 +1,9 @@
 # Dell Latitude E7470 macOS Monterey (OpenCore)
 
+
+<img align="right" src="https://imgur.com/25u1lIk.jpg" width="300">
+
+
 ## Introduction
 
 <details>  
