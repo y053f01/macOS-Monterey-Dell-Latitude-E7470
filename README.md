@@ -128,6 +128,6 @@ You need to plug in the installation USB created previously everytime you start 
 - [Acidanthera](https://github.com/acidanthera) for OpenCore, Lilu and related kexts.
 - [OpenIntelWireless](https://github.com/OpenIntelWireless) and others whose kexts I've used.
 - [Dortania](https://dortania.github.io) for installation and other guides.
-- [Aditya Bakare](https://github.com/adityabakare)[Big Sur](https://github.com/adityabakare/macOS-Dell-Latitude-E7470)
-- [Yosef-y053f01(https://github.com/y053f01)
+- [Aditya Bakare](https://github.com/adityabakare) [Big Sur](https://github.com/adityabakare/macOS-Dell-Latitude-E7470)
+- [Yosef-y053f01](https://github.com/y053f01)
 - Everyone else who contributed to this repository directly/indirectly.
